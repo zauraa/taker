@@ -3560,3 +3560,16 @@
 4/17/2025 | 4:27:15 PM | INFO | Trying to activate mining on-chain for wallet: 0xd1A31eCCc264505E0557585eAd8cd5cFAB026774 
 4/17/2025 | 4:27:21 PM | ERROR | Activate Mining Error: {"code":"SERVER_ERROR","request":{},"response":{},"info":{"requestUrl":"https://rpc-mainnet.taker.xyz/","responseBody":"<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.26.2</center>\r\n</body>\r\n</html>\r\n","responseStatus":"500 Internal Server Error"},"shortMessage":"server response 500 Internal Server Error"}
 4/17/2025 | 4:27:21 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+4/17/2025 | 8:23:05 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/17/2025 | 8:23:05 PM | INFO | Start process for wallet 0xd1A31eCCc264505E0557585eAd8cd5cFAB026774 
+4/17/2025 | 8:23:06 PM | INFO | Trying To Login for wallet: 0xd1A31eCCc264505E0557585eAd8cd5cFAB026774 
+4/17/2025 | 8:23:07 PM | INFO | Login successful... 
+4/17/2025 | 8:23:07 PM | INFO | Trying to check user info... 
+4/17/2025 | 8:23:07 PM | INFO | User ID: 103237436 | Twitter: @myzauraa | Total Points: 1344000 
+4/17/2025 | 8:23:07 PM | INFO | Trying to check user miner status... 
+4/17/2025 | 8:23:10 PM | INFO | Last mining time: 4/16/2025, 8:29:45 AM
+4/17/2025 | 8:23:10 PM | INFO | Trying to start Mining for wallet: 0xd1A31eCCc264505E0557585eAd8cd5cFAB026774 
+4/17/2025 | 8:23:18 PM | INFO | Mine response: {"code":500,"msg":"The contract is not activated. Please activate the contract first","data":null}
+4/17/2025 | 8:23:18 PM | INFO | Trying to activate mining on-chain for wallet: 0xd1A31eCCc264505E0557585eAd8cd5cFAB026774 
+4/17/2025 | 8:23:19 PM | ERROR | Activate Mining Error: {"errno":-111,"code":"ECONNREFUSED","syscall":"connect","address":"101.47.19.33","port":443}
+4/17/2025 | 8:23:19 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
