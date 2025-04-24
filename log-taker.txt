@@ -3938,3 +3938,17 @@
 4/24/2025 | 4:26:05 AM | INFO | Trying to check user miner status... 
 4/24/2025 | 4:26:05 AM | INFO | Last mining time: 4/23/2025, 4:26:18 AM
 4/24/2025 | 4:26:05 AM | WARN | Mining already started, next mining time is: 4/24/2025, 4:26:18 AM
+4/24/2025 | 8:29:27 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/24/2025 | 8:29:28 AM | INFO | Start process for wallet 0xd1A31eCCc264505E0557585eAd8cd5cFAB026774 
+4/24/2025 | 8:29:44 AM | ERROR | Failed to get nonce: Request failed with status code 502
+4/24/2025 | 8:29:44 AM | WARN | Retrying... (2 attempts left) 
+4/24/2025 | 8:29:47 AM | INFO | Trying To Login for wallet: 0xd1A31eCCc264505E0557585eAd8cd5cFAB026774 
+4/24/2025 | 8:30:48 AM | INFO | Login successful... 
+4/24/2025 | 8:30:48 AM | INFO | Trying to check user info... 
+4/24/2025 | 8:30:48 AM | INFO | User ID: 103237436 | Twitter: @myzauraa | Total Points: 1464000 
+4/24/2025 | 8:30:48 AM | INFO | Trying to check user miner status... 
+4/24/2025 | 8:31:49 AM | INFO | Last mining time: 4/23/2025, 4:26:18 AM
+4/24/2025 | 8:31:49 AM | INFO | Trying to start Mining for wallet: 0xd1A31eCCc264505E0557585eAd8cd5cFAB026774 
+4/24/2025 | 8:31:49 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+4/24/2025 | 8:31:49 AM | INFO | Trying to activate mining on-chain for wallet: 0xd1A31eCCc264505E0557585eAd8cd5cFAB026774 
+4/24/2025 | 8:31:59 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x64fb299aef6e1a1c56a27e91e66deb882d28a13c531d6882b11922a30b486d08 
