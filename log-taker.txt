@@ -4204,3 +4204,15 @@
 4/28/2025 | 8:22:11 PM | INFO | Trying to check user miner status... 
 4/28/2025 | 8:22:11 PM | INFO | Last mining time: 4/27/2025, 8:22:15 PM
 4/28/2025 | 8:22:11 PM | WARN | Mining already started, next mining time is: 4/28/2025, 8:22:15 PM
+4/29/2025 | 1:48:09 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/29/2025 | 1:48:09 AM | INFO | Start process for wallet 0xd1A31eCCc264505E0557585eAd8cd5cFAB026774 
+4/29/2025 | 1:48:10 AM | INFO | Trying To Login for wallet: 0xd1A31eCCc264505E0557585eAd8cd5cFAB026774 
+4/29/2025 | 1:48:11 AM | INFO | Login successful... 
+4/29/2025 | 1:48:11 AM | INFO | Trying to check user info... 
+4/29/2025 | 1:48:11 AM | INFO | User ID: 103237436 | Twitter: @myzauraa | Total Points: 1560000 
+4/29/2025 | 1:48:11 AM | INFO | Trying to check user miner status... 
+4/29/2025 | 1:48:12 AM | INFO | Last mining time: 4/27/2025, 8:22:15 PM
+4/29/2025 | 1:48:12 AM | INFO | Trying to start Mining for wallet: 0xd1A31eCCc264505E0557585eAd8cd5cFAB026774 
+4/29/2025 | 1:48:12 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+4/29/2025 | 1:48:12 AM | INFO | Trying to activate mining on-chain for wallet: 0xd1A31eCCc264505E0557585eAd8cd5cFAB026774 
+4/29/2025 | 1:48:22 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xf44edc411fdf01d464259e175133e736ab74bf15bd571c5cdc604c9f4a1d067b 
