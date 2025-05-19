@@ -5355,3 +5355,16 @@
 5/19/2025 | 1:55:47 AM | INFO | Trying to check user miner status... 
 5/19/2025 | 1:55:54 AM | INFO | Last mining time: 5/18/2025, 1:56:39 AM
 5/19/2025 | 1:55:54 AM | WARN | Mining already started, next mining time is: 5/19/2025, 1:56:39 AM
+5/19/2025 | 4:30:01 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/19/2025 | 4:30:01 AM | INFO | Start process for wallet 0xd1A31eCCc264505E0557585eAd8cd5cFAB026774 
+5/19/2025 | 4:30:01 AM | INFO | Trying To Login for wallet: 0xd1A31eCCc264505E0557585eAd8cd5cFAB026774 
+5/19/2025 | 4:30:02 AM | INFO | Login successful... 
+5/19/2025 | 4:30:02 AM | INFO | Trying to check user info... 
+5/19/2025 | 4:30:03 AM | INFO | User ID: 103237436 | Twitter: @myzauraa | Total Points: 1992000 
+5/19/2025 | 4:30:03 AM | INFO | Trying to check user miner status... 
+5/19/2025 | 4:30:08 AM | INFO | Last mining time: 5/17/2025, 1:47:51 AM
+5/19/2025 | 4:30:08 AM | INFO | Trying to start Mining for wallet: 0xd1A31eCCc264505E0557585eAd8cd5cFAB026774 
+5/19/2025 | 4:30:09 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+5/19/2025 | 4:30:09 AM | INFO | Trying to activate mining on-chain for wallet: 0xd1A31eCCc264505E0557585eAd8cd5cFAB026774 
+5/19/2025 | 4:30:10 AM | ERROR | Activate Mining Error: {"code":"SERVER_ERROR","request":{},"response":{},"info":{"requestUrl":"https://rpc-mainnet.taker.xyz/","responseBody":"<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.26.2</center>\r\n</body>\r\n</html>\r\n","responseStatus":"502 Bad Gateway"},"shortMessage":"server response 502 Bad Gateway"}
+5/19/2025 | 4:30:10 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
