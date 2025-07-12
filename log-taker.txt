@@ -8418,3 +8418,12 @@
 7/11/2025 | 8:26:12 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 7/11/2025 | 8:26:12 PM | INFO | Trying to activate mining on-chain for wallet: 0xd1A31eCCc264505E0557585eAd8cd5cFAB026774 
 7/11/2025 | 8:26:22 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x6b7e67cf14e7e6bf053ccf31fc7a8307294cb4c192e52ef5f749e224c2a9062f 
+7/12/2025 | 2:00:15 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+7/12/2025 | 2:00:15 AM | INFO | Start process for wallet 0xd1A31eCCc264505E0557585eAd8cd5cFAB026774 
+7/12/2025 | 2:00:15 AM | INFO | Trying To Login for wallet: 0xd1A31eCCc264505E0557585eAd8cd5cFAB026774 
+7/12/2025 | 2:00:16 AM | INFO | Login successful... 
+7/12/2025 | 2:00:16 AM | INFO | Trying to check user info... 
+7/12/2025 | 2:00:17 AM | INFO | User ID: 103237436 | Twitter: @myzauraa | Total Points: 3144000 
+7/12/2025 | 2:00:17 AM | INFO | Trying to check user miner status... 
+7/12/2025 | 2:00:18 AM | INFO | Last mining time: 7/11/2025, 8:26:18 PM
+7/12/2025 | 2:00:18 AM | WARN | Mining already started, next mining time is: 7/12/2025, 8:26:18 PM
